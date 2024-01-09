@@ -7,9 +7,7 @@ Max Muster
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. Was wäre ein geeignetes Projekt würd diese LP3?
+Meine Noten sind eigentlich okay, aber sie könnten besser sein. In diesem Zeitraum werde ich mich auf Programmieren konzentrieren und an meinem Schachprojekt weiterarbeiten. Ich denke, dass ich zu oft zwischen verschiedenen Themen gewechselt habe und weniger davon profitiert habe. Dieses Mal werde ich mich jedoch nur auf ein Projekt konzentrieren. Mein ziel ist, dass mein Programm spielbar ist.
 
 ## 9.1.2024
 

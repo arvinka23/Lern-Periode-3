@@ -13,17 +13,19 @@ Meine Noten sind eigentlich okay, aber sie könnten besser sein. In diesem Zeitr
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
-## 16.1 und 23.1.2024
+## 16.1
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Erstes AP: für jede figur eine Klasse machen und programmieren wie die sich bewegen.
+- [ ] zwites AP: die figuren einsetzen und das brett programmieren bis richtig klein un gross wird
+- [ ] drittes AP : beginnen züge zu generieren
+- [ ] Viertes AP : züge zu generieren
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
 | 1              |                      |                |                |          |
-| ...            |                      |                |                |          |
-| 4              |                      |                |                |          |
+| 2              |                      |                |                |          |
+| 3   
+| 4            |                      |                |                |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 

@@ -22,8 +22,8 @@ Meine Noten sind eigentlich okay, aber sie könnten besser sein. In diesem Zeitr
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |                      |                |                |          |
-| 2              |                      |                |                |          |
+| 1              | die fotos von figuren haben                 |    wenn alle figuren eine formel für sich selbst haben            |                |          |
+| 2              |  das brett hinzfügen                  |          wenn das brett grossgenug ist und alle figuren  hizugefügt sind.      |                |          |
 | 3   
 | 4            |                      |                |                |
 

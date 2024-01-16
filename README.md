@@ -22,11 +22,12 @@ Meine Noten sind eigentlich okay, aber sie könnten besser sein. In diesem Zeitr
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              | die fotos von figuren haben                 |    wenn alle figuren eine formel für sich selbst haben            |                |          |
-| 2              |  das brett hinzfügen                  |          wenn das brett grossgenug ist und alle figuren  hizugefügt sind.      |                |          |
-| 3           |                      | züge generieren           |                |
+| 1              | die fotos von figuren haben                 |    wenn alle figuren eine formel für sich selbst haben            |                |     ja     |
+| 2              |  das brett hinzfügen                  |          wenn das brett grossgenug ist und alle figuren  hizugefügt sind.      |                |   ja       |
+| 3           |                      | züge generieren           |                | fast fertig
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
+Ich habe heute nur an meinem Projekt gearbeitet und die Formeln für die Figuren geschrieben. Es hat viel länger gedauert als ich erwartet hatte, und ich habe mein Ziel geändert. Ich werde das Spiel bis nächste Woche fertigstellen, jedoch ohne zusätzliche Regeln wie dreifache Wiederholung oder die Regel von 50 Zügen. Da ich später daran weiterarbeiten werde, lade ich es heute Nachmittag hoch.
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 

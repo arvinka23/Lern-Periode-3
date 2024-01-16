@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schachbibiliothek", "schachbibiliothek\schachbibiliothek.csproj", "{1D549DBE-C3EE-4098-8FD8-A7BFC6DEA328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schachui", "schachui\schachui.csproj", "{55110405-7D45-4885-A586-4837BA22027C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D549DBE-C3EE-4098-8FD8-A7BFC6DEA328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D549DBE-C3EE-4098-8FD8-A7BFC6DEA328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D549DBE-C3EE-4098-8FD8-A7BFC6DEA328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D549DBE-C3EE-4098-8FD8-A7BFC6DEA328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55110405-7D45-4885-A586-4837BA22027C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55110405-7D45-4885-A586-4837BA22027C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55110405-7D45-4885-A586-4837BA22027C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55110405-7D45-4885-A586-4837BA22027C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E9FCE96-91C8-4294-A6CF-9C71A750AC6E}
+	EndGlobalSection
+EndGlobal

@@ -33,10 +33,7 @@ Ich habe heute nur an meinem Projekt gearbeitet und die Formeln für die Figuren
 
 ## 23.1.2024
 
-- [ ] Fünftes AP
-- [ ] ...
-
-- [ ] Achtes AP
+- [ ] Fünfte bis 8. AP: In meinem Programm gibt es einen Fehler, und ich versuche, diesen Fehler zu lösen. Das Problem ist, dass die Figuren nicht auf dem Brett angezeigt werden.
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |

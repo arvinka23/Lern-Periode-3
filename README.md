@@ -43,6 +43,8 @@ Ich habe heute nur an meinem Projekt gearbeitet und die Formeln für die Figuren
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
+Leider konnte ich am 23. und während der Woche meine Fehler nicht finden, und mein Projekt wurde nicht rechtzeitig fertig.
+
 ☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 ## 30.1.2024

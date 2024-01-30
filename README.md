@@ -49,10 +49,10 @@ Leider konnte ich am 23. und während der Woche meine Fehler nicht finden, und m
 
 ## 30.1.2024
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+Heute habe ich mein tik-tok-toe Programm verbessert und hochgeladen. es funktioniert gut jetzt und hat englische Variablen. Ich habe auch mein git-hub verbessert.
+
+
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
-
-Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 9-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
+Reflexion: Ich denke, dass ich gut gearbeitet habe. Das Schachprojekt war sehr anstrengend, aber ich werde es in meiner Freizeit fertigstellen. Ich habe sehr viel Neues gelernt, das ich sicher nutzen kann (als Beispiel, wie ich mit Set und Get arbeite), und ich musste auch meine eigenen Fehler finden, was lange gedauert hat, aber sehr vorteilhaft war. Ich finde, dass die letzte Lernperiode besser war, da ich mehr Zeit hatte, aber ich denke, in dieser Lernperiode habe ich effektiver gearbeitet, weil ich wenig Zeit hatte.(99)
